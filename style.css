@@ -1,0 +1,55 @@
+.one{
+    background-color: aqua;
+    width: 400px;
+}
+.two{
+    background-color: rgb(31, 31, 190);
+    width: 320px;
+}
+.five{
+    background-color:rgb(125, 124, 124);
+    width: 280px;
+}
+div > h1{
+    color:red;
+}
+div > h2{
+    color: rgb(31, 31, 194);
+}
+div > p{
+    color: green;
+}
+h3{
+    color: chocolate;
+    font-size: 25px;
+}
+.re{
+    background-color: rgb(92, 15, 15);
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.me{
+    background-color: rgb(92, 15, 15);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.nemo{
+    height: 400px;
+    background-image: url(2.jfif);
+    background-repeat:no-repeat ;
+    color: white;
+    font-size:45px;
+    background-attachment: scroll;
+    background-size:100%;
+    
+}
+.shel{
+    color: darkred;
+    font-size: 25px;
+    background-color: rgba(245, 186, 186, 0.936);
+    width:400px;
+    background-color:rgb(red, green, blue) ;
+    
+}
